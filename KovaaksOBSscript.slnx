@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="KovaaksOBSscript/KovaaksOBSscript.csproj" />
+  <Project Path="KovaaksOBSscript/KovaaksOBSscript.csproj">
+    <BuildType Project="Release" />
+  </Project>
 </Solution>
